@@ -159,5 +159,5 @@ https://github.com/Recordum/MallocLab_impl/blob/main/mm-simply-segreageted.c
 # 참고자료
 https://stackoverflow.com/questions/64096093/how-does-simple-segregated-storage-pre-allocate-lists-of-fixed-block-sizes
 
-CSAPP - 9.9.14
+CSAPP - 9.9.14 
 
